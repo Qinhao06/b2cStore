@@ -1,0 +1,7 @@
+server:
+  port: 3002
+
+spring:
+  cloud:
+    nacos:
+      server-addr: localhost:8848

@@ -1,0 +1,10 @@
+server:
+  port: 3004
+
+
+spring:
+  cloud:
+    nacos:
+      server-addr: localhost:8848
+  application:
+    name: product-service
